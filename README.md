@@ -12,8 +12,7 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pandey-a608501a0/)
-[![Yash Pandey](https://media.licdn.com/dms/image/v2/D5603AQHXItH8Iol1yg/profile-displayphoto-shrink_800_800/B56ZSiQtYOHQAg-/0/1737889077763?e=1748476800&v=beta&t=5tjKgo07RGeLDcazP4E56xOWeqOJ1r7GBAN-X8QQUVM)](https://yashpandey16.site/)
----
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YashPandey16)  
 
 ### 🏆 GitHub Stats:
 
