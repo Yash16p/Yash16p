@@ -14,13 +14,18 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pandey-a608501a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YashPandey16)  
 
+---
+
 ### 🏆 GitHub Stats:
 
 ![Yash's All-Time GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhigyan-RA&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=All-Time%20GitHub%20Stats&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-RA&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashPandey16&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abhigyan-RA&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=YashPandey16&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPandey16&show_icons=true&theme=radical)
+
 
 ---
 
@@ -38,6 +43,7 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23202829.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ---
