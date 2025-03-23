@@ -20,11 +20,11 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 
 ![Yash's All-Time GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhigyan-RA&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=All-Time%20GitHub%20Stats&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashPandey16&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash16p&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YashPandey16&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash16p&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPandey16&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash16p&show_icons=true&theme=radical)
 
 
 ---
@@ -47,8 +47,6 @@ I am a Data Science enthusiast currently pursuing a B.Tech in **Artificial Intel
 
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Abhigyan-RA&color=blue)
 
 ---
 
